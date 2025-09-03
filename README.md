@@ -174,9 +174,3 @@ Google:
 - Jeśli sybilanty: mikrofon poza osią + de‑esser.  
 - Zapisz szablon w FL: File → Save as… → Templates.
 
-------------------------------------------------------------
-Co dalej?
-------------------------------------------------------------
-Jeśli chcesz, możesz teraz:
-- Skopiować ten README i wkleić do pliku README.md w repo.  
-- Albo poprosić mnie, żebym (gdy mogę) utworzył repo za Ciebie — daj znać.
